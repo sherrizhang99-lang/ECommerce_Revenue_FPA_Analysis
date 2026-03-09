@@ -12,3 +12,7 @@ Excel
 - sql: data preparation and KPI calculations
 - dashboard: Tableau visualization
 - output: final dashboard export
+
+## Project Output
+[Uploading Executive Summary.pdf…]()
+[Uploading Analysis.pdf…]()
