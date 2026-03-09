@@ -14,5 +14,5 @@ Excel
 - output: final dashboard export
 
 ## Project Output
-[Uploading Executive Summary.pdf…]()
-[Uploading Analysis.pdf…]()
+![Uploading Executive Summary.png…]()
+![Uploading Analysis.png…]()
