@@ -14,4 +14,4 @@ Excel
 - output: final dashboard export
 
 ## Project Output
-<img width="1025" height="1387" alt="image" src="https://github.com/user-attachments/assets/e81cd144-35c9-41da-93f0-d0834afa24b6" />
+<img width="1099" height="1397" alt="image" src="https://github.com/user-attachments/assets/08d5f280-d08c-4e6f-908d-069fd76150f6" />
