@@ -14,5 +14,5 @@ Excel
 - output: final dashboard export
 
 ## Project Output
-![Uploading Executive Summary.png…]()
-![Uploading Analysis.png…]()
+<img width="1018" height="1390" alt="image" src="https://github.com/user-attachments/assets/2b6c4841-3527-4b18-ac91-1f355bd4c5c5" />
+
